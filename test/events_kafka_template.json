@@ -1,0 +1,6 @@
+{
+  "user_id": "random_int_10000_99999",
+  "action": "random_choice_click_login_logout",
+  "ts": "now_ts"
+}
+

@@ -1,0 +1,9 @@
+# Data directories
+data/
+
+# Docker directories
+docker/
+
+# Library directories
+lib/
+
